@@ -1,3 +1,5 @@
+https://nguyd1.github.io/odin-recipes/
+
 Simple recipes website done using HTML.
 
 Websites used:
